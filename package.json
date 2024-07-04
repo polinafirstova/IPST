@@ -1,6 +1,7 @@
 {
   "name": "task2",
   "version": "0.1.0",
+  "homepage": "https://polinafirstova.github.io/IPST",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
