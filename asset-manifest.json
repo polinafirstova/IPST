@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IPST/static/css/main.36aa4397.css",
+    "main.js": "/IPST/static/js/main.1736bbc1.js",
+    "index.html": "/IPST/index.html",
+    "main.36aa4397.css.map": "/IPST/static/css/main.36aa4397.css.map",
+    "main.1736bbc1.js.map": "/IPST/static/js/main.1736bbc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36aa4397.css",
+    "static/js/main.1736bbc1.js"
+  ]
+}
